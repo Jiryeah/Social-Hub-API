@@ -24,7 +24,7 @@ SO THAT my website can handle large amounts of unstructured data
 
 ## Link to Deployed Application
 
--https://jiryeah.github.io/Note-Taker/
+-
 
 ## Link to Video walkthrough
 
