@@ -18,4 +18,4 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/social-hub-api'
 
 mongoose.set('debug', true);
 
-app.listen(PORT, () => console.log('Connected to localhost:${PORT}'));
+app.listen(PORT, () => console.log(`Connected to localhost:${PORT}`));
